@@ -1,0 +1,4 @@
+huevos,2
+wh,0
+aceiteOliva,0.03
+aceiteGirasol,0.02

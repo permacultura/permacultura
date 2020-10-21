@@ -1,0 +1,3 @@
+tomate,0.2
+pepino,0.15
+aceiteOliva,0.005

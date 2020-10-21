@@ -1,0 +1,5 @@
+brocoli,0.15
+ajo,0.003
+sal,0.001
+aceiteOliva,0.003
+aceiteGirasol,0.03

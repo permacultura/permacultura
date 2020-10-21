@@ -1,0 +1,4 @@
+wh,5
+espinacas,0.3
+ajo,0.003
+sal,0.001

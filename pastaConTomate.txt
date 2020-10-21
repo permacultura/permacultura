@@ -1,0 +1,5 @@
+wh,10
+huevos,0.8
+trigo,0.08
+tomate,0.33
+aceiteGirasol,0.02

@@ -1,0 +1,4 @@
+huevos,2
+patata,0.2
+aceiteOliva,0.003
+aceiteGirasol,0.03

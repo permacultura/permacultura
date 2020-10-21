@@ -1,0 +1,6 @@
+wh,10
+tomate,0.5
+pepino,0.1
+pimiento,0.03
+sal,0.001
+aceite,0.005

@@ -1,0 +1,5 @@
+wh,10
+huevos,0.8
+trigo,0.08
+ajo,0.003
+aceiteOliva,0.01
